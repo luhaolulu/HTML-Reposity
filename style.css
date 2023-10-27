@@ -1,0 +1,24 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+h2[id="blue"] {
+  color: rgb(130, 173, 189);
+}
+
+h2[id="green"] {
+  color: rgb(68, 152, 106);
+}
+
+h2[id="pink"] {
+  color: rgb(230, 170, 180);
+}
+
+h2[id="purple"] {
+  color: rgb(164, 134, 214);
+}
+
+h2[id="yellow"] {
+  color: rgb(236, 236, 126);
+}
